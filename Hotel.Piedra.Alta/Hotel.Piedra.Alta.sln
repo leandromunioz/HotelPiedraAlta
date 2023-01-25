@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Piedra.Alta", "Hotel.Piedra.Alta.csproj", "{EE7A9E8D-0059-464A-9BD8-10CC4BD9468D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "..\Entidades\Entidades.csproj", "{DE2B3674-A709-4FE8-9703-B36FAA7C87DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7A9E8D-0059-464A-9BD8-10CC4BD9468D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7A9E8D-0059-464A-9BD8-10CC4BD9468D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7A9E8D-0059-464A-9BD8-10CC4BD9468D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7A9E8D-0059-464A-9BD8-10CC4BD9468D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2B3674-A709-4FE8-9703-B36FAA7C87DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2B3674-A709-4FE8-9703-B36FAA7C87DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2B3674-A709-4FE8-9703-B36FAA7C87DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2B3674-A709-4FE8-9703-B36FAA7C87DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B756663-74C6-4EDA-BD20-1C99A7052E4D}
+	EndGlobalSection
+EndGlobal
